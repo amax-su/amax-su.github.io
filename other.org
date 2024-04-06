@@ -1,6 +1,0 @@
-#+TITLE: Something other than the homepage
-#+OPTIONS: toc:nil author:nil email:nil creator:nil timestamp:nil
-# Local variables:
-# after-save-hook: org-html-export-to-html
-# end:
-* TITLE
