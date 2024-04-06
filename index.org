@@ -1,4 +1,8 @@
 #+TITLE: Amax-su work
+#+OPTIONS: toc:nil author:nil email:nil creator:nil timestamp:nil
+# Local variables:
+# after-save-hook: org-html-export-to-html
+# end:
 
 *WORK IN PROGRESS NOTHING TO SEE HERE*
 
@@ -8,7 +12,5 @@ I am just a student trying to learn things as I go. I would not say I am very en
 * Notes
 About things which I would learn
 
-
-
-
+[[./other.org]]
 
